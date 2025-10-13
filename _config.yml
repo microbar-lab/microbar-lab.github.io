@@ -1,0 +1,13 @@
+title: MicorbAR Lab
+description: Microbiome and Antimicrobial Resistance Laboratory - IBFG
+theme: jekyll-theme-minimal
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "People"
+    url: /people
+  - title: "Publications"
+    url: /publications
+  - title: "Contact"
+    url: /contact
