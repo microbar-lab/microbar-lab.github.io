@@ -2,6 +2,8 @@
 title: Contact
 ---
 
+{% include header.html %}
+
 # 📬 Contact us!
 
 **Microbiome and Antimicrobial Resistance Lab**   
