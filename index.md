@@ -2,6 +2,8 @@
 title: Home
 ---
 
+{% include header.html %}
+
 # Welcome to MicrobAR Lab webpage!
 
 <br>
