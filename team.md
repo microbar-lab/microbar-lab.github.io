@@ -4,11 +4,15 @@ title: Team
 
 {% include header.html %}
 
-# 👩‍🔬 Meet our team!
+# Team
 
-## Principal Investigator
+# Principal Investigator
 
 ### Narciso M. Quijada
+
+<br>
+
+# Current Lab members
 
 ## Visiting researchers
 
