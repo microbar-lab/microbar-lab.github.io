@@ -1,4 +1,8 @@
-# Welcome to the webpage of MicrobAR Lab!
+---
+title: Home
+---
+
+# Welcome to MicrobAR Lab webpage!
 
 <br>
 
