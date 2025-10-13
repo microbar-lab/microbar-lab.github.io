@@ -1,6 +1,6 @@
+remote_theme: "jekyll/minima@1e8a445"
 title: MicorbAR Lab
 description: Microbiome and Antimicrobial Resistance Laboratory - IBFG
-theme: jekyll-theme-minimal
 
 navigation:
   - title: "Home"
