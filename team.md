@@ -1,3 +1,7 @@
+---
+title: Team
+---
+
 # 👩‍🔬 Meet our team!
 
 ## Principal Innvestigator
