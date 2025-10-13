@@ -1,3 +1,18 @@
-theme: jekyll-theme-minimal
 title: MicorbAR Lab
 description: Microbiome and Antimicrobial Resistance Laboratory - IBFG
+
+nav:
+  - name: Home
+    link: /
+  - name: Team
+    link: /team
+  - name: Publications
+    link: /publications
+  - name: Contact
+    link: /contact
+
+include:
+  - index.md
+  - team.md
+  - publications.md
+  - contact.md
