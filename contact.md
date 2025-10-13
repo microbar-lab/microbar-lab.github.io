@@ -1,3 +1,7 @@
+---
+title: Contact
+---
+
 # 📬 Contact us!
 
 **Microbiome and Antimicrobial Resistance Lab**   
