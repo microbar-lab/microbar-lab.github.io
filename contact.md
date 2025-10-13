@@ -4,7 +4,7 @@ title: Contact
 
 {% include header.html %}
 
-# 📬 Contact us!
+# Contact us!
 
 **Microbiome and Antimicrobial Resistance Lab**   
 Institute of Functional Biology and Genomics (IBFG), CSIC-USAL  
