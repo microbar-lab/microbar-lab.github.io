@@ -17,3 +17,10 @@ include:
   - team.md
   - publications.md
   - contact.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
