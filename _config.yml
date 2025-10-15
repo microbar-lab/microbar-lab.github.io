@@ -5,6 +5,7 @@ plugins:
 title: MicrobAR Lab
 description: <ins>Microb</ins>iome and <ins>A</ins>ntimicrobial <ins>R</ins>esistance Laboratory - IBFG
 show_downloads: false
+baseurl: ""
 
 nav:
   - name: Home
