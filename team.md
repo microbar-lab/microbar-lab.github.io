@@ -8,22 +8,31 @@ title: Team
 
 <br>
 
-<img align="left" src="https://github.com/microbar-lab/microbar-lab.github.io/blob/main/images/NMQ_pic_IBFG_4.jpg" width="20%" style="margin-right:20px; border-radius:10px;">
+## Principal Investigator
 
-## Narciso M. Quijada  
-Principal Investigator
+<img align="left" src="images/NMQ_pic_IBFG_4.jpg" width="20%" style="margin-right:20px; border-radius:10px;">
+
+### Narciso M. Quijada  
+
+
+
+<br>    
 
 <br>
-
 
 <br>
  
 # Current Lab members
 
+<br>
+
 ## Visiting researchers
+
+<br>
 
 ### Raquel Barbero (IRYCIS, Spain)
 
+<br>
 ## Co-supervised PhD students
 
 ### Alejandro J. Alcañiz (University of Salamanca - IATA-CSIC, Spain)  
