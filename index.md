@@ -8,9 +8,8 @@ title: Home
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/microbar-lab/microbar-lab.github.io/blob/main/images/logo-ibfg-transparente.png" width="250" style="border-radius:10px;"><br>
+  <em>Institute of Functional Biology and Genomics (IBFG)</em>
+</p>
 
-## Quick link to sections
-
-- [Contact](contact.md)
-- [Publications](publications.md)
-- [Team](team.md)
