@@ -1,11 +1,11 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
+baseurl: "/microbar-lab"
 
 title: MicrobAR Lab
 description: <ins>Microb</ins>iome and <ins>A</ins>ntimicrobial <ins>R</ins>esistance Laboratory - IBFG
 show_downloads: false
-baseurl: ""
 
 nav:
   - name: Home
