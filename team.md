@@ -37,25 +37,45 @@ Raquel is doing her PhD at IRYCIS (Spain) and will perform a research stay with 
 
 <br>
 
-### Alejandro J. Alcañiz (University of Salamanca - IATA-CSIC, Spain)  
+### Alejandro J. Alcañiz  
+`PhD student`
+
+Alejandro is doing his PhD in Agrobiotechnology at Univ. Salamanca and currently working in the Institute of Agrochemistry and Food Technology-National Research Council (IATA-CSIC, Paterna, Valencia, Spain).  
+<ins>PhD supervisors</ins>: Enrique Monte (CIALE), Narciso M. Quijada (IBFG), Javier Sánchez-Martín (CIALE)
 
 <br>
 
 ### David Mendoza-Salido (CIALE, University of Salamanca, Spain)
+`PhD student`
+
+David is doing his PhD in Agrobiotechnology at Univ. Salamanca and currently working at the Institute of Agribiotechnology Research (CIALE)  
+<ins>PhD supervisors</ins>: Rosa Hermosa (CIALE), Narciso M. Quijada (IBFG)
 
 <br>
+
+<img align="right" src="https://www.vetmeduni.ac.at/fileadmin/_processed_/b/2/csm_Hartmann_Moritz_ddba2b2661.jpeg" width="20%" style="margin-right:20px; border-radius:10px;">
 
 ### Moritz Harmann (University of Veterinary Medicine, Vienna, Austria)
 
-<br>
+`PhD student`  
+
+Moritz Hartmann completed his Bachelor’s degree in Food Science and Biotechnology and his Master’s degree in Food Science and Technology at the University of Natural Resources and Life Sciences (BOKU) in Vienna. His Master’s thesis focused on the effects of wine production and novel fining agents on the residual concentrations of specific fungicides in red wine grapes. After graduating, he became a founding member of the quality management team at Gurkerl.at. Currently, he is pursuing his PhD in the [Selberherr Lab](https://www.vetmeduni.ac.at/en/food-microbiology/about-us/team-evelyne-selberherr), where his research explores the impact of in-house cheese ripening cultures on the safety and quality of long-ripened hard cheeses.  
+<ins>PhD supervisors</ins>: Evelyne Selberherr (VetMedUni), Narciso M. Quijada (IBFG) 
+
+<br> 
 
 ### Tea Movsesijan (University of Veterinary Medicine, Vienna, Austria)
+`PhD student`
 
-## Former visitors
+<br>
+
+
+## Former members
 
 Name | Position | Home institution | Period |
 :--: | :------: | :--------------: | :----: |
-Guillermo Illán Ortega | PhD student | CEBAS-CSIC, Spain | May-June 2025
+Franz Ferdinand Roch | PhD student | VetMedUni (Vienna, Austria) | 2021-2025
+Guillermo Illán Ortega | visiting PhD student | CEBAS-CSIC (Murcia, Spain) | May-June 2025
 
 <br>
 
