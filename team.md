@@ -8,7 +8,7 @@ title: Team
 
 <br>
 
-<img align="right" src="images/NMQ_pic_IBFG_4.jpg" width="30%" style="margin-right:20px; border-radius:10px;">
+<img align="right" src="images/NMQ_pic_IBFG_4.jpg" width="30%" style="margin-right:10px; border-radius:10px;">
 
 ### Narciso M. Quijada 
 `Principal Investigator`
@@ -53,7 +53,7 @@ David is doing his PhD in Agrobiotechnology at Univ. Salamanca and currently wor
 
 <br>
 
-<img align="right" src="https://www.vetmeduni.ac.at/fileadmin/_processed_/b/2/csm_Hartmann_Moritz_ddba2b2661.jpeg" width="20%" style="margin-right:20px; border-radius:10px;">
+<img align="right" src="https://www.vetmeduni.ac.at/fileadmin/_processed_/b/2/csm_Hartmann_Moritz_ddba2b2661.jpeg" width="20%" style="margin-right:10px; margin-left:10px; border-radius:10px;">
 
 ### Moritz Harmann (University of Veterinary Medicine, Vienna, Austria)
 
