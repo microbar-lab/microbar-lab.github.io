@@ -14,7 +14,16 @@ This is the main webpage of `MicrobAR`, the new research group created in 2025 a
 
 <br>
 
-We are interested in investigating the microbiome and the antimicrobial resistance mechanisms emerging and occuring from soil to humans ("One Health). For doing so, we apply and develop different bioinformatic frameworks to face the state-of-the-art of DNA/RNA sequencing techonologies (Illumina, Oxford Nanopore Technologies, Pacbio), including: metataxonomics, genomics, RNAseq, sRNAseq, metagenomics and metatranscriptomics.
+We are interested in investigating the microbiome and the antimicrobial resistance (AMR) mechanisms emerging and occuring from soil to humans ("One Health). For doing so, we apply DNA/RNA sequencing techonologies (Illumina, Oxford Nanopore Technologies, Pacbio; including: metataxonomics, genomics, RNAseq, sRNAseq, metagenomics or metatranscriptomics among others) and we develop and apply customized bioinformatic frameworks.  
+
+We are very active, and right now, we are involved in different projects (among others...=:  
+- Development of software for antifungal resistance.
+- Antifungal resistance in *Candidozyma auris*.
+- Resistome evolution in human early-life and impact of delivery mode and lactancy.
+- Microbial dynamics over cheese microbiome after application of specifically designed synthetic communities.
+- Microbial and AMR monitoring in slaughterhouses and households.
+
+Find out more about our research in the [Publications section]({{ site.baseurl }}/publications).
 
 
 <br>
