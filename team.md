@@ -45,7 +45,7 @@ Alejandro is doing his PhD in Agrobiotechnology at Univ. Salamanca and currently
 
 <br>
 
-### David Mendoza-Salido (CIALE, University of Salamanca, Spain)
+### David Mendoza-Salido
 `PhD student`
 
 David is doing his PhD in Agrobiotechnology at Univ. Salamanca and currently working at the Institute of Agribiotechnology Research (CIALE)  
@@ -55,7 +55,7 @@ David is doing his PhD in Agrobiotechnology at Univ. Salamanca and currently wor
 
 <img align="right" src="https://www.vetmeduni.ac.at/fileadmin/_processed_/b/2/csm_Hartmann_Moritz_ddba2b2661.jpeg" width="20%" style="margin-right:10px; margin-left:10px; border-radius:10px;">
 
-### Moritz Harmann (University of Veterinary Medicine, Vienna, Austria)
+### Moritz Harmann
 
 `PhD student`  
 
@@ -64,8 +64,11 @@ Moritz Hartmann completed his Bachelor’s degree in Food Science and Biotechnol
 
 <br> 
 
-### Tea Movsesijan (University of Veterinary Medicine, Vienna, Austria)
+### Tea Movsesijan
 `PhD student`
+
+Tea is doing her PhD at University of Veterinary Medicine (VetMedUni, Vienna, Austria)  
+<ins>PhD supervisors</ins>: Evelyne Selberherr (VetMedUni), Narciso M. Quijada (IBFG), Stephan Schmitz-Esser (Iowa State University, USA)
 
 <br>
 
