@@ -26,10 +26,12 @@ Narciso is BSc in Pharmacy (Univ. Salamanca, USAL), MSc in Microbiology (Autonom
 
 <br>
 
+<img align="right" src="images/Raquel_Barbero_pic.jpg" width="20%" style="margin-right:10px; margin-left:10px; border-radius:10px;">
+
 ### Raquel Barbero
 `MSc Thesis`  
 
-Raquel is doing her PhD at IRYCIS (Spain) and in parallel a MSc in Bioinformatics (Autonomous University of Madrid). She is doing her MSc Thesis in `MicrobAR Lab` studying the emergence of the global resistome of the human pathogen *Candidozyma auris*.
+Raquel is Graduate in Biology from the Complutense University of Madrid and holds a Master’s degree in Microbiology from the University of the Basque Country. She is currently carrying out her PhD research at the Clinical Metagenomics Laboratory, Department of Microbiology, Ramón y Cajal Hospital - IRYCIS (Spain), and performing a Master's degree in Bioinformatics, where she is developing her Master’s final project in the `MicrobAR Lab` at IBFG studying the emergence of the global resistome of the human pathogen *Candidozyma auris*.
 
 <br>
 
