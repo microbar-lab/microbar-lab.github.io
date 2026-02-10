@@ -21,7 +21,7 @@ title: Publications
 
 # 2025
 
-- Bédard, C., Pageau, A., Fijarczyk, A., <ins>**Mendoza-Salido, D.**</ins>, <ins>**Alcañiz, A.J.**</ins>, Després, P.C., Durand, R., Plante, S., Alexander, E.M.M., Rouleau, F.D., Jordan, D.F., Jay, A., Giguère, M., Bernier, M., Sharma, J., Maroc, L., Gervais, N.C., Menon, A.C.T., Gagnon-Arsenault, I., Bakker, S., Rhodes, J., Dufresne, P.J., Bharat, A., Sellam, A., De Luca, D.G., Gerstein, A., Shapiro, R.S., <ins>**Quijada, N.M.\*</ins>**, Landry, C.R.\*  
+- Bédard, C., Pageau, A., Fijarczyk, A., <ins>**Mendoza-Salido, D.**</ins>, <ins>**Alcañiz, A.J.**</ins>, Després, P.C., Durand, R., Plante, S., Alexander, E.M.M., Rouleau, F.D., Jordan, D.F., Jay, A., Giguère, M., Bernier, M., Sharma, J., Maroc, L., Gervais, N.C., Menon, A.C.T., Gagnon-Arsenault, I., Bakker, S., Rhodes, J., Dufresne, P.J., Bharat, A., Sellam, A., De Luca, D.G., Gerstein, A., Shapiro, R.S., <ins>**Quijada, N.M.\***</ins>, Landry, C.R.\*  
    FungAMR: a comprehensive database for investigating fungal mutations associated with antimicrobial resistance.  
    ***Nature Microbiology***. DOI: [10.1038/S41564-025-02084-7](https://doi.org/10.1038/s41564-025-02084-7)
   
