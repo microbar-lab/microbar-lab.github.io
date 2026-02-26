@@ -13,7 +13,7 @@ title: Team
 ### Narciso M. Quijada 
 `Principal Investigator`
 
-Narciso is BSc in Pharmacy (Univ. Salamanca, USAL), MSc in Microbiology (Autonomous Univ. of Madrid) and PhD in Advances in Food Science and technology (2019, Univ. Burgos, UBU). After gaining his PhD he moved to Vienna (Austria) to perform 3 years of postdoc at Univ. Wien, Univ. Veterinary Medicine (VetMedUni) and FFoQSI Gmbh. Then, in 2022 he came back to Salamanca with a Marie Skłodowska-Curie Action that he developed at the Institute of Agribiotechnology Research (CIALE). At the end of 2024, he joined IBFG to lead the Bioinformatics and Data Sciences Unit. Since mid-2025 he is a CSIC senior scientist ("*científico titular*") and the group leader of `MicrobAR Lab`.
+Narciso is BSc in Pharmacy (Univ. Salamanca, USAL), MSc in Microbiology (Autonomous Univ. of Madrid) and PhD in Advances in Food Science and technology (2019, Univ. Burgos, UBU). After gaining his PhD he moved to Vienna (Austria) to perform 3 years of postdoc at Univ. Wien, Univ. Veterinary Medicine (VetMedUni) and FFoQSI Gmbh. Then, in 2022 he came back to Salamanca with a Marie Skłodowska-Curie Action that he developed at the Institute of Agribiotechnology Research (CIALE). At the end of 2024, he joined IBFG to lead the Bioinformatics and Data Sciences Unit. Since the beginning of 2026 he is a CSIC senior scientist ("*científico titular*") and the group leader of `MicrobAR Lab`.
 
 <ins>Find out more</ins>: [GitHub](https://github.com/nmquijada); [ORCID](https://orcid.org/0000-0002-1956-7205); [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192909558); [Google Scholar](https://scholar.google.es/citations?user=ElgNygIAAAAJ&hl=es&oi=ao)
 
