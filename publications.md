@@ -13,7 +13,7 @@ title: Publications
 
 # 2026
 
-- Viktoria Neubauer*, Siska Aditya, <ins>**Narciso M. Quijada**</ins>, Stefanie Urimare Wetzels, Monika Dzieciol, Poulad Pourazad, Qendrim Zebeli, Evelyne Selberherr.
+- Viktoria Neubauer\*, Siska Aditya, <ins>**Narciso M. Quijada**</ins>, Stefanie Urimare Wetzels, Monika Dzieciol, Poulad Pourazad, Qendrim Zebeli, Evelyne Selberherr.
    Dynamics of the milk microbial community during subacute ruminal acidosis with or without intramammary lipopolysaccharide challenge in dairy cows.  
    ***Animal Microbiome***. DOI: [10.1186/s42523-025-00499-5](https://doi.org/10.1186/s42523-025-00499-5)
   
