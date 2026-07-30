@@ -13,9 +13,13 @@ title: Publications
 
 # 2026
 
+- Elsa García-Martín, Ana Belén Martín-Diana, Iván Jesús Jiménez-Pulido, Daniel Rico, Rebeca de la Cruz-Sánchez, Enrique Monte, <ins>**Narciso M. Quijada**</ins>, Teresa Requena*, Rocío Olmo*.
+  Development of donkey milk fermented with Lactococcus lactis subsp. lactis CECT 31096 and characterization of the antioxidant and antihypertensive activity.  
+  ***International Journal of Food Microbiology***. DOI: [10.1016/j.ijfoodmicro.2026.111779](https://doi.org/10.1016/j.ijfoodmicro.2026.111779)  
+
 - <ins>**Tea Movsesijan**</ins>, <ins>**Alejandro J Alcañiz**</ins>, <ins>**Franz-Ferdinand Roch**</ins>, Muhammad Sharjeel Chaughtai, Monika Dzieciol, Beatrix Stessl, Sarah Thalguter, Cameron R Strachan, Markus Raindl, Martin Wagner, Evelyne Selberherr\*, <ins>**Narciso M Quijada\***</ins>.  
    Biofilm capacity of the psychrophilic bacteria triggers their persistence in the equipment and their spread to beef products throughout processing.  
-   ***Food Research International***. DOI[10.1016/j.foodres.2026.118808](https://doi.org/10.1016/j.foodres.2026.118808)  
+   ***Food Research International***. DOI: [10.1016/j.foodres.2026.118808](https://doi.org/10.1016/j.foodres.2026.118808)  
   
 - Viktoria Neubauer\*, Siska Aditya, <ins>**Narciso M. Quijada**</ins>, Stefanie Urimare Wetzels, Monika Dzieciol, Poulad Pourazad, Qendrim Zebeli, Evelyne Selberherr.
    Dynamics of the milk microbial community during subacute ruminal acidosis with or without intramammary lipopolysaccharide challenge in dairy cows.  
